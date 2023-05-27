@@ -6,13 +6,13 @@ hash = "22f47db1058d619e0ed6c6531eac43dd9b504addff8a2f1fc8ba2d4856a2feba"
 metafile = true
 
 [[files]]
-file = "mods/expanded-storage.pw.toml"
-hash = "c195eb219ae15100cfae7a2c9038ff8109bb709c6445a3f7ddbd9aaa46976789"
+file = "mods/geckolib.pw.toml"
+hash = "ab7bb11199e592a43542ec0ca68c0536b91b5045e070a77525ae1593ca722b90"
 metafile = true
 
 [[files]]
-file = "mods/geckolib.pw.toml"
-hash = "ab7bb11199e592a43542ec0ca68c0536b91b5045e070a77525ae1593ca722b90"
+file = "mods/iron-chests.pw.toml"
+hash = "755a8345636199e68830426bb03873a2395517d719c82dfb9a349d09fe970ea9"
 metafile = true
 
 [[files]]
