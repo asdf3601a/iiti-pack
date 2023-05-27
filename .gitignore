@@ -3,3 +3,7 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+
+# Ignore my lazy act of placing the binary in the root directory.
+packwiz-installer-bootstrap.jar
+packwiz.exe
