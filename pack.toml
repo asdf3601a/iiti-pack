@@ -1,12 +1,12 @@
 name = "iiti-pack"
 author = "iiti"
-version = "0.0.1"
+version = "0.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "04440fb795b3021e067439594b2b26c8b83b897de21d9db8ad88ee9b515335f7"
+hash = "9196b538333c30f2d505cbaf403d48d5c91d167466b0b2b1de08be006a637565"
 
 [versions]
 forge = "43.2.11"
