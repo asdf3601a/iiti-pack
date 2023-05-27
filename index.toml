@@ -1,1 +1,56 @@
 hash-format = "sha256"
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "22f47db1058d619e0ed6c6531eac43dd9b504addff8a2f1fc8ba2d4856a2feba"
+metafile = true
+
+[[files]]
+file = "mods/expanded-storage.pw.toml"
+hash = "c195eb219ae15100cfae7a2c9038ff8109bb709c6445a3f7ddbd9aaa46976789"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "ab7bb11199e592a43542ec0ca68c0536b91b5045e070a77525ae1593ca722b90"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "68e814010cf2df9f5e2ed54d305bf969ea6441494c1bc6d33f7095304c8584e4"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-crops.pw.toml"
+hash = "163fe70e260b40aca45d2aed419ffc703a6337c840da4cf514fa2768834626d0"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-core.pw.toml"
+hash = "a5af261cc4ab01e4f2d4e76c837ec3018d9ace1d1cfbc4672a17e094cbd2d3c9"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-extended.pw.toml"
+hash = "594e1004d6c58be783078614b7e88919eb40ebd4cd6ea8b9da2e8e9c0fb61d32"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-trees.pw.toml"
+hash = "3756509ad06b33d670010545d935058a9ac83cd941a604446899828c1f561410"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "5b1a78ae497977fdd1a0f9068368f4806bcd8cc627bfa6c947e0f5fcec2961be"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "db9bb383bfa9ced1286549b5b0c2c4a2979d5e4ab39c6e86d7e01bf690f9b7a8"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "262e2dd498b28d5b10e10b8065ba49f39cbe2cc16f9cdf55c6d3c0ecf2f4b9fd"
+metafile = true
