@@ -6,11 +6,6 @@ hash = "22f47db1058d619e0ed6c6531eac43dd9b504addff8a2f1fc8ba2d4856a2feba"
 metafile = true
 
 [[files]]
-file = "mods/geckolib.pw.toml"
-hash = "ab7bb11199e592a43542ec0ca68c0536b91b5045e070a77525ae1593ca722b90"
-metafile = true
-
-[[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "755a8345636199e68830426bb03873a2395517d719c82dfb9a349d09fe970ea9"
 metafile = true
@@ -18,11 +13,6 @@ metafile = true
 [[files]]
 file = "mods/mrcrayfish-furniture-mod.pw.toml"
 hash = "d7a6e463e3c1b898e3760ac96566202012f854ce556f8b05fbb6a39cd343ba66"
-metafile = true
-
-[[files]]
-file = "mods/naturalist.pw.toml"
-hash = "77930af801499199321c6c96cc86611fa65ee6079aca2cbab8942669c916a103"
 metafile = true
 
 [[files]]
